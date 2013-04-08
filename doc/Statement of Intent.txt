@@ -1,0 +1,14 @@
+	We developed Cloud Source to serve as a unique solution to the common dilemmas experienced by students throughout the campus. 
+It is in the interest of facilitating increased student interactions both within and outside of the classroom environment that we introduce our innovation. 
+We believe that the greatest academic treasure in a classroom, aside from the knowledge of the professor, is the collective resources of the students. 
+The focal premise of Cloud Source is to expedite student communication - to this end, we offer services such as the LinkMe program, Q&A boards, and 
+Document Vaults. We trust that, armed with the advantage of Cloud Source, student users will find themselves with direct access to a treasure trove of shared knowledge. 
+
+By the end of November, the beta version of Cloud Source will be complete and released to a discrete number of individuals and majors within
+the University of Texas campus. After obtaining their feedback and modifying the website as needed, Cloud Source will be released to two more colleges within UT,
+and another evaluation will take place. It is our hope that by the beginning of the Fall 2013 semester, Cloud Source will be available to all University of Texas students. 
+We ultimately hope to expand to college campuses across the nation and provide our services to a diverse number of universities. The success of Cloud Source
+ will be evaluated through a multiple of avenues, including polling, surveys, traffic volume of the website, and the retention rate of our users. After applying the
+necessary modifications, our vision is for the service to become a tool utilized by students across an array of campuses to raise both social and academic performance 
+and efficiency.
+ 

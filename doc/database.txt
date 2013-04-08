@@ -1,0 +1,26 @@
+----users----
+	id
+	name
+	email
+	points
+	last_active
+
+----department----
+	id
+	name
+
+----classes----
+	id 
+	dept_id 
+	name 
+	description
+	
+----sections----
+	class_id
+	day_of_week 
+	time_start 
+	time_end
+
+----schedule----
+	class_id
+	user_id
